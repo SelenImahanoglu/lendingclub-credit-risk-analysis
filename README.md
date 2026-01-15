@@ -64,7 +64,9 @@ Main reporting layers:
 - **Risk Segmentation:** Risk by occupation and employment length
 - **Debt Health:** DTI analysis and impact on default probability
 
-> Dashboard link: *(add if public / shareable)*
+## Looker Studio Dashboard (View-only)
+- Dashboard Link: https://lookerstudio.google.com/reporting/3e264e91-b533-4840-a1ef-cc72908f1906
+
 
 ---
 
