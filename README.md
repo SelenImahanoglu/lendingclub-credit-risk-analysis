@@ -84,6 +84,59 @@ Main reporting layers:
 - **Dynamic Pricing:** Personalize interest rates based on model risk score to optimize return vs risk
 
 ---
+## Visual Highlights — Lending Club Credit Risk Project
+
+> The visuals below follow the same order as the Looker Studio dashboard.
+
+---
+
+### 1) Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+---
+
+### 2) Risk Analysis
+![Risk Analysis](images/risk_analysis.png)
+
+---
+
+### 3) Risk Segmentation
+![Risk Segmentation](images/risk_segmentation.png)
+
+---
+
+### 4) Debt Health (DTI)
+![Debt Health (DTI)](images/debt_health_dti.png)
+
+---
+
+### 5) Target Imbalance & Baseline (Logistic Regression)
+![Target Imbalance](images/ml_target_imbalance_baseline_lr.png)
+
+---
+
+### 6) Feature Impact Direction
+![Feature Impact Direction](images/ml_feature_impact_direction.png)
+
+---
+
+### 7) XGBoost Confusion Matrix (Final)
+![XGBoost Confusion Matrix](images/ml_xgboost_confusion_matrix.png)
+
+---
+
+### 8) T-Test: Interest Rate vs Default
+![T-Test](images/t_test.png)
+
+---
+
+### 9) Business Impact / ROI
+![ROI](images/roi.png)
+
+---
+
+### 10) Real-Time Decision Simulation
+![Decision Simulation](images/ml_decision_simulation.png)
 
 ## Contributors
 
