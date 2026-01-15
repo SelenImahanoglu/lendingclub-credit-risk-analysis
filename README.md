@@ -18,7 +18,8 @@ This project delivers an end-to-end Machine Learning + Business Intelligence sol
 - **Data Warehousing:** Google BigQuery (SQL)
 - **Business Intelligence:** Looker Studio
 - **Environment:** Google Colab
-
+## Notebook (Colab / ML)
+- [LendingClub_ML.ipynb](notebooks/LendingClub_ML.ipynb)
 ---
 
 ## Project Workflow (End-to-End)
@@ -67,8 +68,6 @@ Main reporting layers:
 ## Looker Studio Dashboard (View-only)
 - Dashboard Link: https://lookerstudio.google.com/reporting/3e264e91-b533-4840-a1ef-cc72908f1906
 
-## Notebook (Colab / ML)
-- [LendingClub_ML.ipynb](notebooks/LendingClub_ML.ipynb)
 
 ---
 
